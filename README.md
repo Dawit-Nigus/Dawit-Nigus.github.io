@@ -1,1 +1,7 @@
-# Dawit-Nigus.github.io
+# PORTFOLIO
+
+A portfolio website
+
+Developed By Dawit Nigus
+
+
