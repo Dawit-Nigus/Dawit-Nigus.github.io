@@ -282,6 +282,7 @@ nav a:hover {
 
 nav ul {
   display: flex;
+   list-style: none;
   gap: 1.9rem;
 }
 
